@@ -9,6 +9,7 @@ INSERT IGNORE INTO vets VALUES (8, 'Denise', 'Turner');
 INSERT IGNORE INTO vets VALUES (9, 'Dave', 'Thomas');
 INSERT IGNORE INTO vets VALUES (10, 'Jimi', 'Hendrix');
 INSERT IGNORE INTO vets VALUES (11, 'Bob', 'Newhart');
+INSERT IGNORE INTO vets VALUES (12, 'Bill', 'Clinton');
 
 INSERT IGNORE INTO specialties VALUES (1, 'radiology');
 INSERT IGNORE INTO specialties VALUES (2, 'surgery');
