@@ -11,6 +11,11 @@ INSERT IGNORE INTO vets VALUES (10, 'Jimi', 'Hendrix');
 INSERT IGNORE INTO vets VALUES (11, 'Bob', 'Newhart');
 INSERT IGNORE INTO vets VALUES (12, 'Bill', 'Clinton');
 INSERT IGNORE INTO vets VALUES (13, 'James', 'Carter');
+INSERT IGNORE INTO vets VALUES (14, 'Jake', 'Di\'Angelo');
+INSERT IGNORE INTO vets VALUES (15, 'Barb', 'Jackson-Hall');
+INSERT IGNORE INTO vets VALUES (16, 'Steven', 'Van Zandt');
+INSERT IGNORE INTO vets VALUES (17, 'Dhirubhai', 'Ambani');
+INSERT IGNORE INTO vets VALUES (18, 'A.J.', 'Henry');
 
 INSERT IGNORE INTO specialties VALUES (1, 'radiology');
 INSERT IGNORE INTO specialties VALUES (2, 'surgery');
